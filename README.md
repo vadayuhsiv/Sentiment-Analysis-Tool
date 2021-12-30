@@ -1,4 +1,4 @@
-# Sentiment_Detector
+# Sentiment-Analysis-Tool
 
 Sentiment analysis is a techniqe that tries to understand the context of a sentence/statement.
 
@@ -46,4 +46,4 @@ Word Embedding:
 A method to represent words into numeric forms.
 
 The final project was deployed using a flask web app
-# Sentiment-Analysis-Tool
+
